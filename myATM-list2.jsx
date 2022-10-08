@@ -18,7 +18,7 @@ const ATMDeposit = ({ onChange, isDeposit, isValid }) => {
           <tr>
             <th scope="col">ID</th>
             <th scope="col">operation</th>
-            <th scope="col">deposit</th>
+            <th scope="col">amount</th>
             <th scope="col">total balance</th>
           </tr>
         </thead>
