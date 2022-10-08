@@ -46,13 +46,13 @@
 
 ## :dart: About ##
 
-Describe your project
+This project was made for the MITxPro fullstack developer certification, it's a simulated ATM Machine that takes deposits and withdraws and generate a list of transactions.
 
 ## :sparkles: Features ##
 
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+:heavy_check_mark: Simulated ATM Machine.
+:heavy_check_mark: With Deposit and Whitdraws.
+:heavy_check_mark: generate list of transactions
 
 ## :rocket: Technologies ##
 
